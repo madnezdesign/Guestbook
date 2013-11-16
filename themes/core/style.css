@@ -1,0 +1,40 @@
+body
+{
+  background-color: #000000;
+  font: 1em Verdana, Arial, Helvetica, sans-serif;
+}
+
+#main
+{
+  margin:0 auto;
+  width:970px;
+  background-color:#fff;
+  padding: 1em;
+  overflow-x: scroll;
+}
+
+#header {
+background-color:#333333;
+color:#FFFFFF;
+width:970px;
+margin:0 auto;
+padding:1em;
+}
+
+#footer {
+background-color:#333333;
+color:#FFFFFF;
+width:970px;
+margin:0 auto;
+padding:1em;
+}
+
+a {
+color:#000000;
+text-decoration:none;
+}
+
+a:hover {
+color:#0099FF;
+text-decoration:underline;
+}
